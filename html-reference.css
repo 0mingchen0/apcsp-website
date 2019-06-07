@@ -1,0 +1,46 @@
+/* the css code here*/
+
+body {
+    font-family: 'Buda', cursive;
+    text-align: center;
+    background-image:url('https://i.pinimg.com/736x/9d/fa/07/9dfa0744744d3af3e555635762d85175--watercolor-lettering-watercolor-texture.jpg');
+    background-size:100%;
+
+}
+/*plz give me extra credit!!!! Above is the body section*/
+.tablestyle{
+    text-align: center;
+    width:100%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #C5CAE9;
+}
+tr:nth-child(odd) {
+    background-color: white;
+}
+h1,h2 {
+    background-color:#C5CAE9;
+    font-size:160%;
+}
+
+h3 {
+    border:2px solid #7986CB;
+    font-size:135%;
+}
+p {
+    font-size:120%;
+}
+.Pink {
+   color: #993366;
+   font-size:120%;
+}
+#id1{
+    color: #600080;
+}
+
+
