@@ -1,0 +1,41 @@
+/*home page style*/
+body{
+    background-image:url('http://www.school298.spb.ru/images/000/DSC100074910.jpg');
+     background-size:100%;
+
+}
+.content {
+  background-color: white;
+}
+
+.content p {
+  color:black;
+  font-family: 'Life Savers', cursive;
+  font-size: 120%;
+}
+
+img {
+  width:100%;
+}
+h1{
+    font-size: 400%;
+ text-align: center;
+    font-family: 'Bungee Shade', cursive; 
+}
+h2{
+    font-family: 'Satisfy', cursive;
+    font-weight: 100;
+    font-size: 120%;
+    text-align: center;
+    background-color: #a1a3ef;
+}
+h3{
+    font-family: 'Satisfy', cursive;
+    font-weight: 90;
+ text-align: center;
+    font-size: 125%
+}
+li{
+    font-family: 'Life Savers', cursive;
+    font-size: 200%;
+}
